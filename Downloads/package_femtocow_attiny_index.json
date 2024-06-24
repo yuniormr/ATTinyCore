@@ -1,25 +1,25 @@
 {
    "packages":[
       {
-         "name":"FemtoCow-attiny",
-         "maintainer":"FemtoCow",
-         "websiteURL":"https://github.com/FemtoCow",
-         "email":"tinycore@femtocow.com",
+         "name":"yuniormr-attiny",
+         "maintainer":"yuniormr",
+         "websiteURL":"https://github.com/yuniormr",
+         "email":"tinycore@yuniormr.com",
          "help":{
-            "online":"https://github.com/FemtoCow"
+            "online":"https://github.com/yuniormr"
          },
          "platforms":[
             {
-               "name":"FemtoCow ATTiny",
+               "name":"yuniormr ATTiny",
                "architecture":"avr",
                "version":"1.1.0",
                "category":"Contributed",
-               "url":"https://github.com/FemtoCow/ATTinyCore/raw/master/Downloads/tiny2.zip",
+               "url":"https://github.com/yuniormr/ATTinyCore/raw/master/Downloads/tiny2.zip",
                "archiveFileName":"tiny2.zip",
                "checksum":"SHA-256:1411faa314e039054ef518e4299251653cb5f720165fe9c5798c5399a685e19a",
-               "size":"279287",
+               "size":"281613",
                "help":{
-                  "online":"https://github.com/FemtoCow"
+                  "online":"https://github.com/yuniormr"
                },
                "boards":[
                   {
